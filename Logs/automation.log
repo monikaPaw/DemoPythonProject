@@ -1,0 +1,17 @@
+WDM - INFO - 
+
+WDM - INFO - ====== WebDriver manager ======
+WDM - INFO - Current google-chrome version is 96.0.4664
+WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+WDM - INFO - Driver [C:\Users\prani\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+root - INFO - ******************Test_001_Login**************
+root - INFO - ******************Verify Login Page Title **************
+root - INFO - ******************Login page test is passed**************
+WDM - INFO - 
+
+WDM - INFO - ====== WebDriver manager ======
+WDM - INFO - Current google-chrome version is 96.0.4664
+WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+WDM - INFO - Driver [C:\Users\prani\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+root - INFO - *************Verifying Login test***************
+root - INFO - ******************Login page test is passed**************

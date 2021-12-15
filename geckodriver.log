@@ -1,0 +1,42 @@
+1639207362242	geckodriver	INFO	Listening on 127.0.0.1:56651
+1639207365294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56652" "-no-remote" "-profile" "C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofilech4tCP"
+1639207365696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofilech4tCP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56652/devtools/browser/fab03227-673f-44a3-8560-d7708dd66bb4
+1639207368005	Marionette	INFO	Listening on port 56659
+1639207368506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639207369750	Marionette	INFO	Stopped listening on port 56659
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639207371139	geckodriver	INFO	Listening on 127.0.0.1:56706
+1639207374183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56707" "-no-remote" "-profile" "C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofilezqsMKS"
+1639207374511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofilezqsMKS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56707/devtools/browser/d070c022-c46b-4ed2-8402-93d8b3951a00
+1639207376509	Marionette	INFO	Listening on port 56714
+1639207376865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639208115472	Marionette	INFO	Stopped listening on port 56714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+istening on ws://localhost:56803/devtools/browser/a4f4878e-382c-414d-b570-9339e704052d
+1639207463520	Marionette	INFO	Listening on port 56810
+1639207463808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639207464256	Marionette	INFO	Stopped listening on port 56810
+1639207465320	geckodriver	INFO	Listening on 127.0.0.1:56842
+1639207468396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56843" "-no-remote" "-profile" "C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofile98PoLt"
+1639207468679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prani\\AppData\\Local\\Temp\\rust_mozprofile98PoLt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56843/devtools/browser/f6f76e77-e7f1-4e11-a53d-0edc42412a68
+1639207470505	Marionette	INFO	Listening on port 56849
+1639207470569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639208114489	Marionette	INFO	Stopped listening on port 56849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
